@@ -51,5 +51,6 @@ This assignment was made possible by referring to the following references for i
 - "Troubleshooting Jenkins Pipeline Failure Issues." 2022, accessed 28 September 2022, 2022, https://docs.bmc.com/docs/brid213/troubleshooting-jenkins-pipeline-failure-issues-1056381771.html.
 - Solutions, Android and Tech. "How to Install Jenkins in Aws Ec2 Ubuntu Instance." YouTube, 29 September 2022 2019. https://www.youtube.com/watch?v=8s71mIOpOAI&t=240s&ab_channel=AndroidandTechSolutions.
 - Step, Automation Step by. "Jenkinsfile Beginner Tutorial 1 | What Is Jenkinsfile | How to Create Jenkinsfile | Step by Step." YouTube, 29 September 2022 2021. https://www.youtube.com/watch?v=RsD2nzPY0is&ab_channel=AutomationStepbyStep.
+- "Run Jenkins in a Docker Container — Part 1 — Docker-in-Docker." 2020, accessed 01 October 2022, 2022, https://davelms.medium.com/run-jenkins-in-a-docker-container-part-1-docker-in-docker-7ca75262619d.
 
 
